@@ -26,19 +26,6 @@ python video2jpeg.py --video_path "path_to_your_video.mp4" --start_time 10 --end
 
 ## Contributing
 Contributions are welcome! To contribute:
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some YourFeature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name - [Your Email](mailto:email@example.com)
-
-Project Link: [https://github.com/yourusername/Video2JPEG](https://github.com/yourusername/Video2JPEG)
-
-## Acknowledgements
-- [OpenCV](https://opencv.org/)
+Distributed under the MIT License.
